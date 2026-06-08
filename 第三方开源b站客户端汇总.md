@@ -63,11 +63,11 @@
 8. https://github.com/keluokeda/Bilibili 安卓/TV，没打包apk，
 9. https://github.com/liang-coder/BLILI 
 10. https://github.com/qianxuntudou-ops/MyBili 复刻blbl并加了些功能
-11. https://github.com/qianxuntudou-ops/MyTVB 安卓TV，TV可用
-12. https://github.com/chinasoul/BT 安卓TV，TV可用
-13. https://github.com/cat3399/blbl 安卓TV，TV可用
-14. https://github.com/Hyper-Beast/BiliTV 安卓TV，TV可用
-15. https://github.com/Hyper-Beast/BiliTVNative 安卓TV，TV可用，原生版
+11. https://github.com/qianxuntudou-ops/MyTVB  安卓TV，
+12. https://github.com/chinasoul/BT 安卓TV
+13. https://github.com/cat3399/blbl 安卓TV
+14. https://github.com/Hyper-Beast/BiliTV 安卓TV
+15. https://github.com/Hyper-Beast/BiliTVNative 安卓TV，原生版
 16. https://github.com/SugarFatFree/PiliPlus 基于bggRGjQaUbCoE/PiliPlus 安卓TV，PiliPlus-TV
 17. 
 
