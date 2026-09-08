@@ -4,7 +4,7 @@
 4. https://github.com/Akylas/OSS-DocumentScanner
 5. https://github.com/pencilresearch/OpenScanner
 
-参考：
+同步/讨论：
 - https://meta.appinn.net/t/topic/67658
 - https://bgm.tv/group/topic/410428
 
